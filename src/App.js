@@ -17,6 +17,11 @@ function App() {
         >
           Learn React
           <button>Get</button>
+          <button>Get</button>
+          <button>Get</button>
+          <button>Get</button>
+          <button>Get</button>
+          <button>Get</button>
         </a>
       </header>
     </div>
