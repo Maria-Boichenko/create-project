@@ -16,6 +16,11 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          Learn React
+          Learn React
+          Learn React
+          Learn React
+          Learn React
           <button>Get</button>
           <button>Get</button>
           <button>Get</button>
